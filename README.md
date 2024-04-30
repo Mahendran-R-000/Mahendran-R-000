@@ -18,7 +18,7 @@
 
 <p align="center">
 
- <a href="#" target="_blank">
+ <a href="https://www.linkedin.com/in/mahendran-0-r/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"/>
  </a>
  <a href="mailto:mahendran.06335@gmail.com" target="_blank">
@@ -37,10 +37,18 @@
  # About me
  
 <p>
- 💖 &emsp; Passionate about crafting code and exploring new realms of technology<br/><br/>
- 🌟 &emsp; Enthralled by the magic of coding and the joy of sharing knowledge <br/><br/>
- 📧 &emsp; Connect with me anytime: mahendran.06335@gmail.com<br/><br/>
- 💬 &emsp; Have an inquiry or just want to chat? [Reach out to me here](https://github.com/mahendran-r-000/mahendran-r-000/issues).
+ 🚀&emsp; Ambitious Computer Science Engineering Student | Exploring Cutting-Edge Technologies 🌐
+
+🔍&emsp; Dynamic CS engineering student with strong programming, data structures, and algorithms foundation. Curious about AI, ML, and DL advancements, thriving on solving complex problems with innovative solutions.
+
+🤖 &emsp;Focus on Large Language Models (LLMs) and Prompt Engineering, using NLP to build ethical intelligent systems, redefining human-computer interaction.
+
+💻&emsp; Proficient in full-stack web development, excelling in frontend (HTML, CSS, JS, React) and backend (Java, Node.js, Springboot, Express.js) technologies, ensuring robust, scalable, and user-friendly applications.
+
+📚&emsp; Lifelong learner, staying updated with research, participating in workshops, and engaging in hackathons to refine skills and expand knowledge, aiming to contribute to impactful projects addressing real-world challenges.
+
+💬 &emsp; Have an inquiry or just want to chat? [Reach out to me here](https://github.com/mahendran-r-000/mahendran-r-000/issues).
+
 
 
 
@@ -79,6 +87,7 @@
 [![SmartParker](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=Smart_Parker&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/Smart_Parker)
 [![LivFit](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=LivFit&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/LivFit)
 [![VedaMed_Symptoms_API](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=VedaMed_Symptoms_API&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/VedaMed_Symptoms_API)
+[![Simple Blog using RESTAPI](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=Simple-Blog-using-Django--RESTAPI&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/Simple-Blog-using-Django--RESTAPI)
 
 <p align="left">
   <a href="https://github.com/Mahendran-R-000?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
