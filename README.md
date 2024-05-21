@@ -3,14 +3,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There!, I am
-                <b><a target="_blank" href="#">Mahendran R</a></b>
+                <b><a target="_blank" href="https://mahendran-r.vercel.app/">Mahendran R</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
     <br>
-    「 Full Stack Developer from <b>Coimbatore,India</b> 」
+    「 Full Stack Developer 」
     <br>
     <br>
   </samp>
