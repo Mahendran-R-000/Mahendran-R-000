@@ -47,7 +47,7 @@
 
 📚&emsp; Lifelong learner, staying updated with research, participating in workshops, and engaging in hackathons to refine skills and expand knowledge, aiming to contribute to impactful projects addressing real-world challenges.
 
-💬 &emsp; Have an inquiry or just want to chat? [Reach out to me here](https://github.com/mahendran-r-000/mahendran-r-000/issues).
+💬 &emsp; Have an inquiry or just want to chat? [Reach out to me here](https://mahendran-r.vercel.app/).
 
 
 
