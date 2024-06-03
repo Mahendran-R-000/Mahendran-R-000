@@ -2,20 +2,23 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello There!, I am
-                <b><a target="_blank" href="https://mahendran-r.vercel.app/">Mahendran R</a></b>
+        <samp>&gt; Hello There!</samp>, I am
+                <b><a target="_blank" href="https://mahendran-r.vercel.app/"><samp>Mahendran R</a></b>
         </samp>
 </h3>
 
-<p align="center"> 
-  <samp>
+<h4 align="center"> 
+        <b>
     <br>
     「 Full Stack Developer 」
     <br>
     <br>
-  </samp>
-</p>
+        </b>
+</h4>
 
+<h4 align="center"><samp>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
+        <span><br><h5 align="center">- Martin Fowler</h5></span></samp><br><br></h4>
+                
 <p align="center">
 
  <a href="https://www.linkedin.com/in/mahendran-0-r/" target="_blank">
