@@ -1,3 +1,5 @@
+<!-- rofile View-->
+![](https://komarev.com/ghpvc/?username=Mahendran-R-000&color=blue)
 
 
 <!-- Intro  -->
@@ -8,33 +10,41 @@
 </h3>
 
 <h4 align="center"> 
-        <b>
-    <br>
+        <b><br>
     「 Full Stack Developer 」
-    <br>
-    <br>
-        </b>
+    <br><br> </b>
 </h4>
 
+<!-- Quote-->
 <h4 align="center"><samp>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
         <span><br><h5 align="center">- Martin Fowler</h5></span></samp><br><br></h4>
-                
 <p align="center">
 
+<!-- Social Media-->
  <a href="https://www.linkedin.com/in/mahendran-0-r/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"/>
  </a>
+ 
  <a href="mailto:mahendran.06335@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 <a href="https://wa.me/+916382683835" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
+
 <a href="https://t.me/Imafldk" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </p>
 <br />
+
+<!-- Trophies-->
+<div align="center">
+        
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mahendran-R-000&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<br>
 
 <!-- About Section -->
  # About me
@@ -51,15 +61,11 @@
 📚&emsp; Lifelong learner, staying updated with research, participating in workshops, and engaging in hackathons to refine skills and expand knowledge, aiming to contribute to impactful projects addressing real-world challenges.
 
 💬 &emsp; Have an inquiry or just want to chat? [Reach out to me here](https://mahendran-r.vercel.app/).
-
-
-
-
 </p>
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
+
+<!-- Skills  -->
 
 ## Use To Code
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -86,35 +92,41 @@
 
 <br/>
 
+<!-- Github Streaks-->
+<p align="center">
+  <a href="https://github.com/Mahendran-R-000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahendran-r-000&theme=algolia&icon_color=F8D866" alt="Mahendran's GitHub streak"/>
+  </a>
+</p>
+<br>
+
+
+<!-- Projects -->
 ## Resources
 [![SmartParker](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=Smart_Parker&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/Smart_Parker)
 [![LivFit](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=LivFit&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/LivFit)
 [![VedaMed_Symptoms_API](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=VedaMed_Symptoms_API&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/VedaMed_Symptoms_API)
 [![Simple Blog using RESTAPI](https://github-readme-stats.vercel.app/api/pin/?username=Mahendran-R-000&repo=Simple-Blog-using-Django--RESTAPI&border_color=3A58B7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mahendran-R-000/Simple-Blog-using-Django--RESTAPI)
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Mahendran-R-000?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
-<hr/>
-<br/>
+<br/><hr/><br/>
+
+<!-- Github Stats  -->
 <a> 
-    <a href="https://github.com/Mahendran-R-000"><img alt="Mahendran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahendran-r-000&show_icons=true&count_private=true&theme=react&background=0D1117&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Mahendran-R-000"><img alt="Mahendran's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahendran-r-000&langs_count=8&layout=compact&theme=react&background=0D1117&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Mahendran-R-000"><img alt="Mahendran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahendran-r-000&show_icons=true&count_private=true&theme=algolia&background=0D1117&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Mahendran-R-000"><img alt="Mahendran's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahendran-r-000&langs_count=8&layout=compact&theme=algolia&background=0D1117&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
+<!-- Graph -->
+<br><br>
 <p align="center">
   <a href="https://github.com/Mahendran-R-000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahendran-r-000&theme=react&icon_color=F8D866" alt="Mahendran's GitHub streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahendran-r-000&theme=algolia" alt="Mahendran's GitHub Contribution"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mahendran-R-000">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahendran-r-000&theme=react" alt="Mahendran's GitHub Contribution"/>
-  </a>
-</p>
 
-![Mahendran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahendran-r-000&custom_title=Mahendran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3A58B7&line=3A58B7&point=3A58B7&area_color=FFFFFF&title_color=FFFFFF&area=true)
