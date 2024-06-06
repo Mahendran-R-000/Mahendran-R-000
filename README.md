@@ -68,6 +68,14 @@
 <!-- Skills  -->
 
 ## Use To Code
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,python,java,html,css,javascript,react,nodejs,mysql,mongodb,firebase,git,github&perline=6" />
+  </a>
+</p>
+
+<!--
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -86,10 +94,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+-->
 
 
 <br/>
+
+## Contribution
+<br>
 
 <!-- Github Streaks-->
 <p align="center">
